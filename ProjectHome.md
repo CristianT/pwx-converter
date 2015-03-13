@@ -1,0 +1,1 @@
+Converts PWX files generated with Timex watches to TCX format compatible with Garmin tools and Endomondo.
